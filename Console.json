@@ -7,5 +7,7 @@
     { "name": "Jolyne", "user-id": "1FCB35BC16B01331" }
   ],
   "super-admins": ["Inoxi"],
-  "owners": ["Inoxi"]
+  "owners": [
+    { "name": "Inoxi", "user-id": "3125C92124A652C4" }
+  ]
 }
