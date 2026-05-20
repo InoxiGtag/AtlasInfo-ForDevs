@@ -4,8 +4,9 @@
     { "name": "Lexi", "user-id": "467114172575CC01" },
     { "name": "LexiAlt", "user-id": "A4E06D8CDF522CDA" },
     { "name": "Inoxi", "user-id": "3125C92124A652C4" },
-    { "name": "JolyneAlt", "user-id": "1FCB35BC16B01331" }
-    { "name": "Jolyne", "user-id": "B09E96D2A9159321" }
+    { "name": "JolyneAlt", "user-id": "1FCB35BC16B01331" },
+    { "name": "Jolyne", "user-id": "B09E96D2A9159321" },
+    { "name": "Zacharyzone", "user-id": "D016F34A23C43541" }
   ],
   "super-admins": ["Inoxi"],
   "owners": [
