@@ -2,9 +2,10 @@
   "min-console-version": "3.0.0",
   "admins": [
     { "name": "Lexi", "user-id": "467114172575CC01" },
-    { "name": "Lexi", "user-id": "A4E06D8CDF522CDA" },
+    { "name": "LexiAlt", "user-id": "A4E06D8CDF522CDA" },
     { "name": "Inoxi", "user-id": "3125C92124A652C4" },
-    { "name": "Jolyne", "user-id": "1FCB35BC16B01331" }
+    { "name": "JolyneAlt", "user-id": "1FCB35BC16B01331" }
+    { "name": "Jolyne", "user-id": "B09E96D2A9159321" }
   ],
   "super-admins": ["Inoxi"],
   "owners": [
