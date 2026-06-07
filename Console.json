@@ -3,7 +3,8 @@
   "admins": [
     { "name": "Lexi", "user-id": "467114172575CC01" },
     { "name": "LexiAlt", "user-id": "A4E06D8CDF522CDA" },
-    { "name": "Inoxi", "user-id": "3125C92124A652C4" },
+    { "name": "Inoxi-VCBan", "user-id": "3125C92124A652C4" },
+    { "name": "Inoxi", "user-id": "D6FDC3A96E989D87" },
     { "name": "JolyneAlt", "user-id": "1FCB35BC16B01331" },
     { "name": "Jolyne", "user-id": "B09E96D2A9159321" },
     { "name": "aaa", "user-id": "F11FF07F6E028B08" },
@@ -12,6 +13,6 @@
   ],
   "super-admins": ["Inoxi"],
   "owners": [
-    { "name": "Inoxi", "user-id": "3125C92124A652C4" }
+    { "name": "Inoxi", "user-id": "D6FDC3A96E989D87" }
   ]
 }
