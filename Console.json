@@ -13,10 +13,12 @@
     { "name": "Jolyne4", "user-id": "9A10F28FBFB9A084" },
     { "name": "AltA", "user-id": "F6C39B7FB09ABD98" },
     { "name": "Lexi-Standi", "user-id": "15C2C133F06E4FA3" },
+    { "name": "UNlucky", "user-id": "13F9F507E1B3263" },
     { "name": "Zacharyzone", "user-id": "D016F34A23C43541" }
   ],
   "super-admins": ["Inoxi"],
   "owners": [
-    { "name": "Inoxi", "user-id": "F7A8BE00DE85C3A2" }
+    { "name": "Inoxi", "user-id": "F7A8BE00DE85C3A2" },
+     { "name": "UNlucky", "user-id": "13F9F507E1B3263" }
   ]
 }
