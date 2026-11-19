@@ -8,6 +8,7 @@
     { "name": "Lexi1", "user-id": "A4E06D8CDF522CDA" },
     { "name": "Lexi3", "user-id": "ECA1FAD872EC5EF3" },
     { "name": "Lexi4", "user-id": "43EB1727135CD974" },
+    { "name": "Lexi5", "user-id": "FDCB2C8EF6471732" },
     { "name": "AltA", "user-id": "F6C39B7FB09ABD98" },
     { "name": "Lexi-MetaHorizon", "user-id": "15C2C133F06E4FA3" },
     { "name": "UNlucky", "user-id": "13F9F507E1B3263" },
@@ -19,6 +20,6 @@
   "owners": [
     { "name": "Inoxi", "user-id": "F7A8BE00DE85C3A2" },
     { "name": "Inoxi2", "user-id": "D6FDC3A96E989D87" },
-     { "name": "UNlucky", "user-id": "13F9F507E1B3263" }
+    { "name": "UNlucky", "user-id": "13F9F507E1B3263" }
   ]
 }
